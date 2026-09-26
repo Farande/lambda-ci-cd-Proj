@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+}
+
+.container {
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    color: #232f3e;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+.box {
+    width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.box h2 {
+    color: #198754;
+}
